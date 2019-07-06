@@ -4,4 +4,4 @@
 
 根据文件名找到相应的插件，进入后可下载ZIP文件进行解压安装
 
-[官网](http://suishifu.com)
+[官网](http://suishipay.com)
